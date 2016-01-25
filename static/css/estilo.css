@@ -300,7 +300,7 @@ Solo se ve en pantallas moviles	(max-width: 519px)
         position: relative;
         top: -0.2em;
     }
-     /* Adaptamos los iconos para hacer una aniomacion menos vistosa
+     /* Adaptamos los iconos para hacer una animacion menos vistosa
         animamos solo el borde redondeado del icono
       */
     .MainMenu i {
